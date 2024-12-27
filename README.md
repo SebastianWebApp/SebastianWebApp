@@ -2,7 +2,7 @@
 <!--  -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />  
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***  
+***Sobre mí***  
 
 Soy estudiante de ingeniería en sistemas, actualmente en el séptimo semestre. Estoy aplicando mis conocimientos tanto en el desarrollo frontend como backend. Me encanta aprender y construir nuevos proyectos que me desafíen a explorar tecnologías innovadoras y a encontrar formas creativas de alcanzar mis metas.   
 
