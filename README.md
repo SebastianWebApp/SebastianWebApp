@@ -24,6 +24,15 @@ Soy estudiante de ingeniería en sistemas, actualmente en el séptimo semestre. 
 
 </span>  
 
+<h4> Bases de Datos </h4>
+<span>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-%23039BE5.svg?style=for-the-badge&logo=firebase">
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white">
+</span>
+<p>
+
 <h4> Otras Herramientas y Tecnologías </h4>  
 <span>  
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">  
