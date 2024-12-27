@@ -4,9 +4,7 @@
 
 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***Sobre mí***  
 
-Soy estudiante de ingeniería en sistemas, actualmente en el séptimo semestre. Estoy aplicando mis conocimientos tanto en el desarrollo frontend como backend. Me encanta aprender y construir nuevos proyectos que me desafíen a explorar tecnologías innovadoras y a encontrar formas creativas de alcanzar mis metas.  
-- 🌱 Actualmente estoy aprendiendo:  
-  - **Express.js**, aplicándolo con diversas bases de datos, además de herramientas como **Docker** y **AWS**.  
+Soy estudiante de ingeniería en sistemas, actualmente en el séptimo semestre. Estoy aplicando mis conocimientos tanto en el desarrollo frontend como backend. Me encanta aprender y construir nuevos proyectos que me desafíen a explorar tecnologías innovadoras y a encontrar formas creativas de alcanzar mis metas.   
 
 
 ## Mis Habilidades  
