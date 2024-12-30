@@ -4,7 +4,7 @@
 
 ***Sobre mí***  
 
-Soy estudiante de ingeniería en sistemas, actualmente en el séptimo semestre. Estoy aplicando mis conocimientos tanto en el desarrollo frontend como backend. Me encanta aprender y construir nuevos proyectos que me desafíen a explorar tecnologías innovadoras y a encontrar formas creativas de alcanzar mis metas.   
+Soy estudiante de Ingeniería en Sistemas con experiencia en el desarrollo de sistemas utilizando diversas tecnologías. He trabajado en el desarrollo de aplicaciones móviles con Android Studio y Java, así como en la creación de aulas virtuales y sistemas contables y administrativos empleando HTML, CSS, JavaScript y Firebase. Actualmente, estoy profundizando en el desarrollo de servidores con Express.js, integrando bases de datos como MySQL, PostgreSQL y MongoDB. También estoy desarrollando competencias en el uso de microservicios para realizar despliegues automatizados mediante herramientas como GitHub Actions, Docker Hub y AWS, con el objetivo de optimizar procesos y garantizar versiones actualizadas de los servicios.
 
 
 ## Mis Habilidades  
